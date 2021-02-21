@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 group-title="IPTV", FOX 23
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 group-title="IPTV", TELEMUNDO LA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
+#EXTINF:-1 group-title="IPTV", UNIVISION USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
+#EXTINF:-1 group-title="IPTV", UNIMAS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
+#EXTINF:-1 group-title="IPTV", HBO
+#EXTINF:-1 group-title="IPTV", http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/35801
+#EXTINF:-1 group-title="IPTV", HBO 2
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/35797
+#EXTINF:-1 group-title="IPTV", HBO 2 UHD
+http://supersonictv.live:25461/903310/034806/22896
+#EXTINF:-1 group-title="IPTV", HBO COMEDY
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/35798
+#EXTINF:-1 group-title="IPTV", HBO FAMILY HD
+http://mags.vip:2086/live/miriam/miriam123/172.ts
+#EXTINF:-1 group-title="IPTV", HBO LATINO HD
+http://mags.vip:2086/live/miriam/miriam123/64102.ts
+#EXTINF:-1 group-title="IPTV", MTV LATNO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=965&deviceId=5cf96d351652631e36d4331f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="IPTV", NICK JR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=998&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="IPTV", STARZ 
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63634
+#EXTINF:-1 group-title="IPTV", STARZ BLACK
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63649
+#EXTINF:-1 group-title="IPTV", STARZ ACTION
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63643
+#EXTINF:-1 group-title="IPTV", Starz Encore West 
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63636
+#EXTINF:-1 group-title="IPTV", STARZ FAMILY
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63635
+#EXTINF:-1 group-title="IPTV", STARZ ENCORE  BLACK
+http://mags.vip:2086/live/miriam/miriam123/56139.ts
+#EXTINF:-1 group-title="IPTV", CINEMAX WEST
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63660
+#EXTINF:-1 group-title="IPTV", CINEMAX 5 STARTMAX
+http://supersonictv.live:25461/903310/034806/22878
+#EXTINF:-1 group-title="IPTV", FOX DALLAS
+http://mags.vip:2086/live/jav/jav123/100051.ts
+#EXTINF:-1 group-title="IPTV", Fox News DALLAS
+http://mags.vip:2086/live/miriam/miriam123/90386.ts
+#EXTINF:-1 group-title="IPTV", ABC HD
+http://mags.vip:2086/live/miriam/miriam123/90339.ts
+#EXTINF:-1 group-title="IPTV", CBS HD
+http://mags.vip:2086/live/miriam/miriam123/98844.ts
+#EXTINF:-1 group-title="IPTV", MAVERICH HD  DALLAS
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/67053
+#EXTINF:-1 group-title="IPTV", DISCOVERY CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/255.ts
+#EXTINF:-1 group-title="IPTV", DISCOVERY FAMILY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
+#EXTINF:-1 group-title="IPTV", DISCOVERY LIFE
+http://mags.vip:2086/live/miriam/miriam123/14880.ts
+#EXTINF:-1 group-title="IPTV", DISCOVERY SCIENCE
+http://mags.vip:2086/live/miriam/miriam123/13565.ts
+#EXTINF:-1 group-title="IPTV", DISCOVERY WORLD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58073
+#EXTINF:-1 group-title="IPTV", INVESTIGATION DISCOVERY
+http://mags.vip:2086/live/miriam/miriam123/13608.ts
+#EXTINF:-1 group-title="IPTV", NAT GEO
+http://mags.vip:2086/live/miriam/miriam123/95443.ts
+#EXTINF:-1 group-title="IPTV", AMC
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/105.m3u8
+#EXTINF:-1 group-title="IPTV", CARACOL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
