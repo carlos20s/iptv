@@ -1,26 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="IPTV", CARACOL HD
-http://latinoamericatv.vip:3334/paco/paco123/179
-#EXTINF:-1 group-title="IPTV", CARACOL FULL HD
-http://goodtv.xyz:2052/Mike/Mike123/2159863
+https://list.iptvcat.com/my_list/s/db351054ce395536307aaf91437f6206.m3u8
 #EXTINF:-1 group-title="IPTV", RCN HD
-http://latinoamericatv.vip:3334/paco/paco123/183
-#EXTINF:-1 group-title="IPTV", TELEANTIOQUIA HD
-http://latinoamericatv.vip:3334/paco/paco123/184
-#EXTINF:-1 group-title="IPTV", HBO HD
-http://latinoamericatv.vip:3334/Kaka/Kaka/54
+https://list.iptvcat.com/my_list/s/ddbb2f9a422f60e9945e2c4956581d41.m3u8
+#EXTINF:-1 group-title="IPTV", CLARO TV
+https://list.iptvcat.com/my_list/s/dff6243a997231f0e10981e99e48854a.m3u8
+#EXTINF:-1 group-title="IPTV", SENAL COLOMBIA
+https://list.iptvcat.com/my_list/s/340128cebe70a083388f57d9b831da27.m3u8
+#EXTINF:-1 group-title="IPTV", HBO HD USA
+https://list.iptvcat.com/my_list/s/39bf5f1534a518f3b36d4c6145cf735f.m3u8
+#EXTINF:-1 group-title="IPTV", HBO EAST HD USA
+https://list.iptvcat.com/my_list/s/88218154fcebadf551f93dd9b8c4d38b.m3u8
+#EXTINF:-1 group-title="IPTV", HBO WEST HD USA
+https://list.iptvcat.com/my_list/s/0e491c3fae5d9083aac96d82d4990c7c.m3u8
 #EXTINF:-1 group-title="IPTV", HBO 2 HD
-http://livego.club:8080/serena4/serena4/27413
-#EXTINF:-1 group-title="IPTV", HBO FAMILY
-http://latinoamericatv.vip:3334/Kaka/Kaka/51
-#EXTINF:-1 group-title="IPTV", HBO PLUS
-http://latinoamericatv.vip:3334/Kaka/Kaka/49
-#EXTINF:-1 group-title="IPTV", HBO POP
-http://latinoamericatv.vip:3334/Kaka/Kaka/1242
-#EXTINF:-1 group-title="IPTV", HBO SIGNATURE
-http://latinoamericatv.vip:3334/Kaka/Kaka/45
-#EXTINF:-1 group-title="IPTV", STAR CHANNEL
-http://latinoamericatv.vip:3334/Kaka/Kaka/10
+https://list.iptvcat.com/my_list/s/defc1871fd1ff3b37afff087a5c932c3.m3u8
+#EXTINF:-1 group-title="IPTV", HBO COMEDY HD
+https://list.iptvcat.com/my_list/s/670a06086ee094806737b3f8c4f5e3d7.m3u8
+#EXTINF:-1 group-title="IPTV", +24 RTVE
+https://list.iptvcat.com/my_list/s/e01cd8db784d7b7199f98ffa60890f8b.m3u8
 #EXTINF:-1 group-title="IPTV", STAR ACTION
 http://latinoamericatv.vip:3334/Kaka/Kaka/36
 #EXTINF:-1 group-title="IPTV", STAR CINEMA
